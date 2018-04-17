@@ -1,0 +1,12 @@
+﻿1. Add Model-Class Movie
+2. Add Controller Movies
+3. Add right click in the action (Random) in movie controller create Random view in Movies folder 
+4. Add bootstrap new design bootstrap-lumen in folder Content
+5. Import in App_start -> BundleConfig.cs
+6.
+7.
+8.
+9.
+10.
+
+
